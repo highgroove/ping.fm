@@ -1,6 +1,6 @@
 == a simple ruby wrapper for the ping.FM service ==
 
-This is a simple library to automate posting to ping.FM service.
+This is a simple library to automate posting to ping.FM API on Composer.io.
 
 Uses the v1 API:
 http://groups.google.com/group/pingfm-developers/web/api-documentation?_done=%2Fgroup%2Fpingfm-developers%3F
