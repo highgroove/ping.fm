@@ -27,7 +27,7 @@ class PingFM
               :user_app_key => USER_API_KEY, 
               :post_method => post_method,
               :body => body}.merge(opts)
-    xml_result = RestClient.post("http://api.ping.fm/v1/user.post", params)
+    xml_result = RestClient.post("http://papi.cmp.sr/v1/user.post", params)
   end
   
 end
